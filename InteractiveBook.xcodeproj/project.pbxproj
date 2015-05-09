@@ -8,6 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		8D2078AA1AD8A0BE0007FD69 /* PageContentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D2078A91AD8A0BE0007FD69 /* PageContentViewController.swift */; };
+		8D31F3CC1AEADE8F00BFE85F /* 0.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D31F3C51AEADE8F00BFE85F /* 0.png */; };
+		8D31F3CD1AEADE8F00BFE85F /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D31F3C61AEADE8F00BFE85F /* 1.png */; };
+		8D31F3CE1AEADE8F00BFE85F /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D31F3C71AEADE8F00BFE85F /* 2.png */; };
+		8D31F3CF1AEADE8F00BFE85F /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D31F3C81AEADE8F00BFE85F /* 3.png */; };
+		8D31F3D01AEADE8F00BFE85F /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D31F3C91AEADE8F00BFE85F /* 4.png */; };
+		8D31F3D11AEADE8F00BFE85F /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D31F3CA1AEADE8F00BFE85F /* 5.png */; };
+		8D31F3D21AEADE8F00BFE85F /* hackprinceton.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8D31F3CB1AEADE8F00BFE85F /* hackprinceton.jpg */; };
 		8D3313041AD8CABC00C741E1 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D3313031AD8CABC00C741E1 /* SettingViewController.swift */; };
 		8D3313061AD8DB9500C741E1 /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D3313051AD8DB9500C741E1 /* Page.swift */; };
 		8D3313081AD8DC4B00C741E1 /* StoryDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D3313071AD8DC4B00C741E1 /* StoryDataManager.swift */; };
@@ -67,13 +74,6 @@
 		8D7D66651AD970DE00F22CF8 /* SecondBeep.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8D7D66621AD970DE00F22CF8 /* SecondBeep.wav */; };
 		8D7D66681AD97B4400F22CF8 /* SettingDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D7D66671AD97B4400F22CF8 /* SettingDataManager.swift */; };
 		8D8639191ADC030900D2DA9F /* CheckConnectivity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D8639181ADC030900D2DA9F /* CheckConnectivity.swift */; };
-		8D86391B1ADC609300D2DA9F /* hackprinceton.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8D86391A1ADC609300D2DA9F /* hackprinceton.jpg */; };
-		8D86391D1ADC6C4700D2DA9F /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D86391C1ADC6C4700D2DA9F /* 1.png */; };
-		8D86391F1ADC6E2C00D2DA9F /* 0.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D86391E1ADC6E2C00D2DA9F /* 0.png */; };
-		8D8639221ADC71FC00D2DA9F /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D8639201ADC71FC00D2DA9F /* 2.png */; };
-		8D8639231ADC71FC00D2DA9F /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D8639211ADC71FC00D2DA9F /* 3.png */; };
-		8D8639261ADC72B200D2DA9F /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D8639241ADC72B200D2DA9F /* 4.png */; };
-		8D8639271ADC72B200D2DA9F /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D8639251ADC72B200D2DA9F /* 5.png */; };
 		8D94846C1ACDCF7900A06442 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D94846B1ACDCF7900A06442 /* AppDelegate.swift */; };
 		8D94846F1ACDCF7900A06442 /* InteractiveBook.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8D94846D1ACDCF7900A06442 /* InteractiveBook.xcdatamodeld */; };
 		8D9484741ACDCF7900A06442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D9484721ACDCF7900A06442 /* Main.storyboard */; };
@@ -94,6 +94,13 @@
 
 /* Begin PBXFileReference section */
 		8D2078A91AD8A0BE0007FD69 /* PageContentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PageContentViewController.swift; sourceTree = "<group>"; };
+		8D31F3C51AEADE8F00BFE85F /* 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0.png; sourceTree = SOURCE_ROOT; };
+		8D31F3C61AEADE8F00BFE85F /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = SOURCE_ROOT; };
+		8D31F3C71AEADE8F00BFE85F /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = SOURCE_ROOT; };
+		8D31F3C81AEADE8F00BFE85F /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = SOURCE_ROOT; };
+		8D31F3C91AEADE8F00BFE85F /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = SOURCE_ROOT; };
+		8D31F3CA1AEADE8F00BFE85F /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = SOURCE_ROOT; };
+		8D31F3CB1AEADE8F00BFE85F /* hackprinceton.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hackprinceton.jpg; sourceTree = SOURCE_ROOT; };
 		8D3313031AD8CABC00C741E1 /* SettingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 		8D3313051AD8DB9500C741E1 /* Page.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Page.swift; sourceTree = "<group>"; };
 		8D3313071AD8DC4B00C741E1 /* StoryDataManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoryDataManager.swift; sourceTree = "<group>"; };
@@ -166,13 +173,6 @@
 		8D7D66621AD970DE00F22CF8 /* SecondBeep.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = SecondBeep.wav; path = Sounds/SecondBeep.wav; sourceTree = SOURCE_ROOT; };
 		8D7D66671AD97B4400F22CF8 /* SettingDataManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingDataManager.swift; sourceTree = "<group>"; };
 		8D8639181ADC030900D2DA9F /* CheckConnectivity.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CheckConnectivity.swift; sourceTree = "<group>"; };
-		8D86391A1ADC609300D2DA9F /* hackprinceton.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = hackprinceton.jpg; path = ../../MLBook/hackprinceton.jpg; sourceTree = "<group>"; };
-		8D86391C1ADC6C4700D2DA9F /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1.png; path = ../../MLBook/1.png; sourceTree = "<group>"; };
-		8D86391E1ADC6E2C00D2DA9F /* 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 0.png; path = ../../MLBook/0.png; sourceTree = "<group>"; };
-		8D8639201ADC71FC00D2DA9F /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 2.png; path = ../../MLBook/2.png; sourceTree = "<group>"; };
-		8D8639211ADC71FC00D2DA9F /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 3.png; path = ../../MLBook/3.png; sourceTree = "<group>"; };
-		8D8639241ADC72B200D2DA9F /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 4.png; path = ../../MLBook/4.png; sourceTree = "<group>"; };
-		8D8639251ADC72B200D2DA9F /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 5.png; path = ../../MLBook/5.png; sourceTree = "<group>"; };
 		8D9484661ACDCF7900A06442 /* InteractiveBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InteractiveBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D94846A1ACDCF7900A06442 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8D94846B1ACDCF7900A06442 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -365,15 +365,15 @@
 				8D2078A91AD8A0BE0007FD69 /* PageContentViewController.swift */,
 				8D3313031AD8CABC00C741E1 /* SettingViewController.swift */,
 				8D8639181ADC030900D2DA9F /* CheckConnectivity.swift */,
-				8D86391E1ADC6E2C00D2DA9F /* 0.png */,
-				8D86391C1ADC6C4700D2DA9F /* 1.png */,
-				8D8639201ADC71FC00D2DA9F /* 2.png */,
-				8D8639211ADC71FC00D2DA9F /* 3.png */,
-				8D8639241ADC72B200D2DA9F /* 4.png */,
-				8D8639251ADC72B200D2DA9F /* 5.png */,
+				8D31F3C51AEADE8F00BFE85F /* 0.png */,
+				8D31F3C61AEADE8F00BFE85F /* 1.png */,
+				8D31F3C71AEADE8F00BFE85F /* 2.png */,
+				8D31F3C81AEADE8F00BFE85F /* 3.png */,
+				8D31F3C91AEADE8F00BFE85F /* 4.png */,
+				8D31F3CA1AEADE8F00BFE85F /* 5.png */,
+				8D31F3CB1AEADE8F00BFE85F /* hackprinceton.jpg */,
 				8D5673EE1AD9EE0C00916C6E /* images-2.jpeg */,
 				8D5673F01AD9F09400916C6E /* the-imitation-game-38-high-resolution-wallpaper.jpg */,
-				8D86391A1ADC609300D2DA9F /* hackprinceton.jpg */,
 				8D7D66661AD970E900F22CF8 /* Sounds */,
 				8D3CFAB21AD5A5400015F493 /* Class */,
 				8D3CFAB31AD5A54A0015F493 /* DataManager */,
@@ -493,30 +493,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D31F3D11AEADE8F00BFE85F /* 5.png in Resources */,
+				8D31F3CE1AEADE8F00BFE85F /* 2.png in Resources */,
+				8D31F3CC1AEADE8F00BFE85F /* 0.png in Resources */,
 				8D5674381ADA23D000916C6E /* Lato-MediumItalic.ttf in Resources */,
 				8D5674321ADA23D000916C6E /* Lato-Hairline.ttf in Resources */,
 				8D5674301ADA23D000916C6E /* Lato-Bold.ttf in Resources */,
+				8D31F3CD1AEADE8F00BFE85F /* 1.png in Resources */,
 				8D56743B1ADA23D000916C6E /* Lato-SemiboldItalic.ttf in Resources */,
-				8D86391D1ADC6C4700D2DA9F /* 1.png in Resources */,
 				8D5673F11AD9F09400916C6E /* the-imitation-game-38-high-resolution-wallpaper.jpg in Resources */,
+				8D31F3D01AEADE8F00BFE85F /* 4.png in Resources */,
 				8D56742E1ADA23D000916C6E /* Lato-Black.ttf in Resources */,
 				8D5674331ADA23D000916C6E /* Lato-HairlineItalic.ttf in Resources */,
 				8D5674311ADA23D000916C6E /* Lato-BoldItalic.ttf in Resources */,
 				8D5674391ADA23D000916C6E /* Lato-Regular.ttf in Resources */,
-				8D86391F1ADC6E2C00D2DA9F /* 0.png in Resources */,
+				8D31F3CF1AEADE8F00BFE85F /* 3.png in Resources */,
 				8D56742F1ADA23D000916C6E /* Lato-BlackItalic.ttf in Resources */,
 				8D5673EF1AD9EE0C00916C6E /* images-2.jpeg in Resources */,
 				8D7D66651AD970DE00F22CF8 /* SecondBeep.wav in Resources */,
 				8D56743C1ADA23D000916C6E /* OFL.txt in Resources */,
-				8D8639221ADC71FC00D2DA9F /* 2.png in Resources */,
 				8D9484741ACDCF7900A06442 /* Main.storyboard in Resources */,
 				8D5674361ADA23D000916C6E /* Lato-LightItalic.ttf in Resources */,
 				8D5674341ADA23D000916C6E /* Lato-Italic.ttf in Resources */,
-				8D8639231ADC71FC00D2DA9F /* 3.png in Resources */,
-				8D8639261ADC72B200D2DA9F /* 4.png in Resources */,
-				8D8639271ADC72B200D2DA9F /* 5.png in Resources */,
 				8D56743A1ADA23D000916C6E /* Lato-Semibold.ttf in Resources */,
-				8D86391B1ADC609300D2DA9F /* hackprinceton.jpg in Resources */,
+				8D31F3D21AEADE8F00BFE85F /* hackprinceton.jpg in Resources */,
 				8D9484791ACDCF7900A06442 /* LaunchScreen.xib in Resources */,
 				8D5674371ADA23D000916C6E /* Lato-Medium.ttf in Resources */,
 				8D7D66631AD970DE00F22CF8 /* ButtonTap.wav in Resources */,

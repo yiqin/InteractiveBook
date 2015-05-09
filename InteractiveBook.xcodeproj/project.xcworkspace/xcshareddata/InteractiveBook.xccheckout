@@ -14,6 +14,8 @@
 		<string>https://github.com/rohan4/MLBook.git</string>
 		<key>AFC99AD1B81509EDE7437030638075006417DD02</key>
 		<string>https://github.com/uchicago-mobi/yiqin-MPCS51032-2015-Spring-Assignment-1.git</string>
+		<key>F56C0E7D3A0393B2C0E6986386D5F76A8D752724</key>
+		<string>https://github.com/yiqin/InteractiveBook.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>InteractiveBook.xcodeproj</string>
@@ -22,16 +24,26 @@
 		<key>17E3D7D85C1B0447E670EFC604A8D046D79E8031</key>
 		<string>../../../MLBook</string>
 		<key>AFC99AD1B81509EDE7437030638075006417DD02</key>
+		<string>../../../yiqin-MPCS51032-2015-Spring-Assignment-1</string>
+		<key>F56C0E7D3A0393B2C0E6986386D5F76A8D752724</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/uchicago-mobi/yiqin-MPCS51032-2015-Spring-Assignment-1.git</string>
+	<string>https://github.com/yiqin/InteractiveBook.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>AFC99AD1B81509EDE7437030638075006417DD02</string>
+	<string>F56C0E7D3A0393B2C0E6986386D5F76A8D752724</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F56C0E7D3A0393B2C0E6986386D5F76A8D752724</string>
+			<key>IDESourceControlWCCName</key>
+			<string>InteractiveBook</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
