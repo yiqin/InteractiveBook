@@ -6,3 +6,7 @@ It's dedicated to Alan Turing, the father of Computer Science. It's an interacti
 ## Screenshots
 <img src="http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/241/620/datas/gallery.jpg" alt="app screenshot 2" width="49%"/>
 <img src="http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/241/617/datas/gallery.jpg" alt="app screenshot 1" width="49%"/>
+
+
+## Prize
+It's awarded to the best project that merges elements of software and history. Prize is a signed copy of Stephen Kotkin’s magisterial biography of Joseph Stalin.
